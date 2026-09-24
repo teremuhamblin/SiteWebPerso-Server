@@ -1,0 +1,7 @@
+# CODEOWNERS — SiteWebPerso-Server
+
+* @teremuhamblin 
+docs/ @teremuhamblin 
+css/ @teremuhamblin 
+server/ @teremuhamblin 
+api/ @teremuhamblin 
