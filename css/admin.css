@@ -1,0 +1,12 @@
+/* Styles admin minimal */
+body {
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: #eee;
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, section {
+    padding: 20px;
+}
